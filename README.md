@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omercanyigit1
+- 👋 Hi, I’m Omer
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning World!
 - 📫 How to reach me omercanyigit1@gmail.com
